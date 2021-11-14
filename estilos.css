@@ -87,7 +87,7 @@ a:hover{
 }
 
 #espauno{
-  width: 40%;
+  width: 0%;
 }
 
 #indice{
@@ -178,5 +178,10 @@ a:hover{
   display: flex;
   flex-direction: row-reverse;
 }
+ 
+#proyecto{
+  margin-top: -150px;
+}
+
 
 
