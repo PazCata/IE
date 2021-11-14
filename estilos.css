@@ -1,9 +1,10 @@
 body{
-   background-color: rgb(180, 152, 180)
+   background-color: rgb(183, 177, 219)
 }
    #caveza{
     font-family: 'Cormorant Garamond', serif;
-}
+
+   }
 
 /*#indice{
     font-family: 'Cormorant Garamond', serif;
@@ -23,7 +24,7 @@ h2{
     text-align: right;
     margin-top: 10px;
     margin-bottom: 5px;
-}
+  }
 
 h3{
     font-weight: 500;
@@ -105,13 +106,13 @@ a:hover{
 }
 
 #uno{
-   display: flex;
+  display: flex;
   flex-direction: row;
   justify-content: flex-start;
   width: 100%;
-  margin-bottom: 15px;
+  margin-left: 10px;
 }
-
+/*
 #tareauno{
   width: 20%;
 }
@@ -136,6 +137,46 @@ a:hover{
   flex-direction: column;
   justify-content: flex-start;
   width: 50%;
+} */
+
+#trabajos{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  width: 100%;
+  margin-top: 50px;
+}
+
+#ejerciouno{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin-top: 20px;
+  margin-left: 450px;
+  margin-bottom: 50px;
+}
+
+#ejerciodos{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin-top: 50px;
+  margin-left: 300px;
+  margin-bottom: 50px;
+}
+
+#descripcion{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  width: 100%;
+  font-weight: 100;
+  font-size: 20px
+}
+
+#imagen{
+  display: flex;
+  flex-direction: row-reverse;
 }
 
 
