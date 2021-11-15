@@ -147,7 +147,7 @@ a:hover{
   margin-top: 50px;
 }
 
-#ejerciouno{
+#ejerciciouno{
   display: flex;
   flex-direction: row;
   width: 100%;
@@ -156,12 +156,30 @@ a:hover{
   margin-bottom: 50px;
 }
 
-#ejerciodos{
+#ejerciciodos{
   display: flex;
   flex-direction: row;
   width: 100%;
   margin-top: 50px;
-  margin-left: 300px;
+  margin-left: 280px;
+  margin-bottom: 50px;
+}
+
+#ejerciciotres{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin-top: 50px;
+  margin-left: 330px;
+  margin-bottom: 50px;
+}
+
+#ejerciciocuatro{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin-top: 50px;
+  margin-left: 390px;
   margin-bottom: 50px;
 }
 
